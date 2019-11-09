@@ -5,7 +5,6 @@ wn = turtle.Screen()
 wn.title('Pong by @WadeWilson')
 wn.bgcolor('blue')
 wn.setup(width=800, height=600)
-# wn.tracer(0,0)
 
 # Score
 score_a = 0
