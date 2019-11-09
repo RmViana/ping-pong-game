@@ -1,2 +1,3 @@
 # ping-pong-game
-Pong game using Turtle module
+
+This is a table tennis game, made with Python, using Turtle module.
