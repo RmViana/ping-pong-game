@@ -5,7 +5,7 @@ This is a table tennis game, implemented with the Turtle module.
 ## Running
 - Clone/ download this repository;
 - In your terminal, navigate to the root folder of this project;
-- Execute the `python ---.py` command;
+- Execute the `python Pong.py` command;
 
 That's it, hope you enjoy 😀!
 
